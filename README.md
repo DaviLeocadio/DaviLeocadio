@@ -5,7 +5,7 @@
   </div>
 
   <h2>🧑🏽 Description</h2>
-  <p>My name is Davi de Souza Leocadio Ramos and from Brazil in São Paulo. In the nowadays, I`m systems developer and studying in Senai.</p>
+  <p>My name is Davi de Souza Leocadio Ramos and from Brazil in São Paulo. In the nowadays, I`m systems developer and studying in Senai. I am 17 years old and in the next year aim in a work with the theme of developer.</p>
 
   <h2>⚙️ Work Tools</h2>
 
